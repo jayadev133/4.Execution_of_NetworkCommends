@@ -63,15 +63,15 @@ print(result,unans)
 ## Output
 TRACER :
 
-![Screenshot 2024-04-24 053041](https://github.com/nivethasuresh1408/4.Execution_of_NetworkCommends/assets/152055927/01764015-00f7-4c30-830f-3f2cc2f2816f)
+![image](https://github.com/jayadev133/4.Execution_of_NetworkCommends/assets/150319465/53332297-f6e3-41c5-9a2e-73c8a732b174)
 
 CLIENT :
 
-![Screenshot 2024-04-24 052835](https://github.com/nivethasuresh1408/4.Execution_of_NetworkCommends/assets/152055927/6095ea6e-67de-4ce5-bf3d-650f20d9dd5c)
+![image](https://github.com/jayadev133/4.Execution_of_NetworkCommends/assets/150319465/5298e365-8cc5-420d-a325-ce657ba90fce)
 
 SERVER :
 
-![Screenshot 2024-04-24 052846](https://github.com/nivethasuresh1408/4.Execution_of_NetworkCommends/assets/152055927/449b2de0-b41b-4a21-ae7f-dd7618fc84ed)
+![image](https://github.com/jayadev133/4.Execution_of_NetworkCommends/assets/150319465/a3a3d6ef-5259-474c-9d71-0fedd503462a)
 
 ## Result
 Thus Execution of Network commands Performed 
